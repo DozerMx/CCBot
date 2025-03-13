@@ -7,7 +7,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 import threading
 
 TOKEN = "7865047964:AAEA-vBOOkMbH04NykR63e597whAxF512MQ"
-IMAGE_FOLDER = "Cedulas"
+IMAGE_FOLDER = "Cédulas"
 MAX_FILE_SIZE = 1 * 1024 * 1024
 LARGE_IMAGES = [3, 4]
 
